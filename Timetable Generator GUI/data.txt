@@ -1,0 +1,17 @@
+1. Internet Technology
+2. Installation and Customization
+3. Computer Applications
+4. Computer Architecture
+5. Computing Mathematics
+6. Business Communication Skills
+7. Operating Systems
+8. HIV/AIDS and Information Literacy
+
+1. Principles of Databases
+2. Networking Essentials
+3. System Analysis and Design
+4. Discrete Mathematics
+5. Probability and Statistics
+6. Computational Thinking
+7. Introduction to Programming
+8. Fundamentals of Web Design

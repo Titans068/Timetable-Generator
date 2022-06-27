@@ -1,0 +1,16 @@
+﻿cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\AssemblyInfo.cpp(40,29): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\AssemblyInfo.cpp(40,29): message : Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Timetable Generator GUI.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910\include\yvals.h(245): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\Form1.h(332,23): warning C4101: 'ex': unreferenced local variable
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\Form1.h(507,24): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Timetable Generator GUI.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Debug\Timetable Generator GUI.exe

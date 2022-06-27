@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\Debug\Timetable Generator GUI.vcxprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\Debug\TimetableGeneratorGUI.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Timetable Generator GUI\Timetable Generator GUI\Debug\Timetable Generator GUI.vcxproj.GenerateResource.cache
